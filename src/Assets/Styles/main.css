@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap');
+
+@import "_navbar.css";
+@import "_auth.css";
+@import "_home.css";
+@import "_card.css";
+@import "_searchBar.css";
+@import "_loader.css";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+
+

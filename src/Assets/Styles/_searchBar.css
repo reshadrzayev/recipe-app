@@ -1,0 +1,29 @@
+.search-bar{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.search-bar-main{
+    width: 50%;
+}
+
+.search-bar-main input{
+    width: 80%;
+    height: 30px;
+    border: none;
+    outline: none;
+    background: #d3d3d3;
+    padding: 0 10px;
+    font-size: 15px;
+}
+.search-bar-main button{
+    width: 20%;
+    height: 30px;
+    background: #444444;
+    color: #d3d3d3;
+    border: none;
+    outline: none;
+}

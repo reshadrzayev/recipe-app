@@ -1,0 +1,29 @@
+.navbar{
+  width: 100%;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  background: #282c34;
+  border-bottom: 1px solid #444444;
+
+}
+.navbar-main{
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+}
+.navbar-main .right, .navbar-main .left{
+  display: flex;
+  align-items: center;
+}
+
+.navbar-main a{
+  color: white;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.navbar-main p{
+  color: #919191;
+}
+

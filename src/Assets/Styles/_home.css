@@ -1,0 +1,21 @@
+.recipes{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px;
+    padding-bottom: 150px;
+}
+
+.body,.home-page,html{
+    background: #282c34;
+}
+
+.no-result{
+    text-align: center;
+    width: 90%;
+    font-size: 45px;
+    padding: 80px 0;
+    color: white;
+    margin: 0 auto;
+    font-weight: 100;
+}

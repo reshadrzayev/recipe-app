@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Reshad",
+      "surname": "Rzayev",
+      "username": "reshadrzayev",
+      "mail": "reshadrzayev00@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Murad",
+      "surname": "Rzayev",
+      "username": "muradrzayev",
+      "mail": "muradrzayev@mail.com"
+    }
+  ]
+}

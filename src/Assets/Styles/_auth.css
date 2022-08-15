@@ -1,0 +1,37 @@
+.auth{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.auth-main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 20%;
+}
+.auth-main h3{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+.auth-main input{
+    height: 30px;
+    padding: 0 10px;
+    border: none;
+    outline: none;
+    margin-bottom: 10px;
+}
+.auth-main button{
+    margin-top: 10px;
+    height: 40px;
+    border: 1px solid #889db6;
+    outline: none;
+    color: white;
+    background: transparent;
+    cursor: pointer;
+}
